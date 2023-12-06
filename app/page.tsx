@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className="root">
       <div className="text-center mt-2 p-5">
-        <h1 className="text-4xl">Posts</h1>
+        <h1 className="text-4xl text-white">Posts</h1>
         <hr className="mt-2" />
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">

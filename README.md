@@ -1,0 +1,1 @@
+My attempt to have a blog(Probably failed though).

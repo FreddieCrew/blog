@@ -104,7 +104,7 @@ export default function RootLayout({ children }: RootLayoutProps) {
       <body
         className={`antialiased min-h-screen bg-gray-900 ${inter.className}`}
       >
-        <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
+        <ThemeProvider attribute="class">
           <header>
             <Navbar />
             <div className="flex items-center justify-between"></div>
